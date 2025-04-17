@@ -4,7 +4,7 @@ export const projects = [
         description:"Displays key metrics & charts for a fictional music streaming service, providing insights into user activity & revenue.",
         techstack: ["React.js","TailwindCSS", "Recharts","React Hooks"],
         image:"/Streamify-Screenshot.png",
-        livelink:"",
+        livelink:"https://www.streamify.clementbuilds.com",
         sourcelink:"https://github.com/clementrozario/Streamify",
     },
     {
