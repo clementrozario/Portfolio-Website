@@ -6,7 +6,7 @@ const skills = [
     "TypeScript",
     "Node.js",
     "MongoDB",
-    "Redux",
+    "Zustand",
     "AWS",
     "TailwindCSS",
 ]

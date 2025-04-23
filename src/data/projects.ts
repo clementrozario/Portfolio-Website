@@ -10,6 +10,7 @@ export const projects = [
     {
         title:"Realtime Chat App 💬",
         description:" Built from scratch with WebSockets for real-time messaging, featuring a simple and clean UI.",
+        image:"/chatty-app.png",
         techstack:["React.js","Node.js","TailwindCSS","DaisyUI","JWT","Zustand"],
         livelink:"https://real-time-chat-app-2yz1.onrender.com/",
         sourcelink:"https://github.com/clementrozario/Real_Time_Chat_App",
