@@ -9,7 +9,6 @@ const skills = [
     "Redux",
     "AWS",
     "TailwindCSS",
-    "GraphQL",
 ]
 
 const RightSection = () => {
