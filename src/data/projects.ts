@@ -15,20 +15,23 @@ export const projects = [
         livelink:"https://real-time-chat-app-2yz1.onrender.com/",
         sourcelink:"https://github.com/clementrozario/Real_Time_Chat_App",
     },
+
+    {
+        title:"Note taking app 📝",
+        description:"Add savings & expenses with visual charts, built using GraphQL for efficient data management.",
+        image:"/Notes-app.png",
+        techstack:["React.js","mongoDB","tailwindcss","JWT"],
+        livelink:"deploying soon....",
+        sourcelink:"https://github.com/clementrozario/ai-notesapp",
+    },
+
     {
         title:"Expense Tracker App 💸",
         description:"Add savings & expenses with s3 storage leader boards payment integration",
         techstack:["React.js","Node.js","Express.js","MongoDB"],
-        livelink:"",
         sourcelink:"https://github.com/clementrozario/Expense-Tracker_NoSql",
     },
 
-    {
-        title:"Note taking with AI summary 📝",
-        description:"Add savings & expenses with visual charts, built using GraphQL for efficient data management.",
-        techstack:["Next.js","supabase","tailwindcss","Shadcn","postgresql","react Query"],
-        livelink:"",
-        sourcelink:"https://github.com/clementrozario/NoteTaking-with-AI",
-    },
+   
 
 ];
