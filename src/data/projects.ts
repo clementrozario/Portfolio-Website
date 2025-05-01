@@ -10,7 +10,7 @@ export const projects = [
     {
         title:"Realtime Chat App 💬",
         description:" Built from scratch with WebSockets for real-time messaging, featuring a simple and clean UI.",
-        image:"/chatty-app.png",
+        image:"/Chat-Portfolio.png",
         techstack:["React.js","Node.js","TailwindCSS","DaisyUI","JWT","Zustand"],
         livelink:"https://real-time-chat-app-2yz1.onrender.com/",
         sourcelink:"https://github.com/clementrozario/Real_Time_Chat_App",
@@ -25,12 +25,13 @@ export const projects = [
         sourcelink:"https://github.com/clementrozario/ai-notesapp",
     },
 
-    // {
-    //     title:"Expense Tracker App 💸",
-    //     description:"Add savings & expenses with s3 storage leader boards payment integration",
-    //     techstack:["React.js","Node.js","Express.js","MongoDB"],
-    //     sourcelink:"https://github.com/clementrozario/Expense-Tracker_NoSql",
-    // },
+    {
+        title:"Expense Tracker App 💸",
+        description:"Add savings & expenses with s3 storage leader boards payment integration",
+        image:"/Expense-Tracker.png",
+        techstack:["React.js","Node.js","Express.js","MongoDB"],
+        sourcelink:"https://github.com/clementrozario/Expense-Tracker_NoSql",
+    },
 
    
 
