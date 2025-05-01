@@ -25,12 +25,12 @@ export const projects = [
         sourcelink:"https://github.com/clementrozario/ai-notesapp",
     },
 
-    {
-        title:"Expense Tracker App 💸",
-        description:"Add savings & expenses with s3 storage leader boards payment integration",
-        techstack:["React.js","Node.js","Express.js","MongoDB"],
-        sourcelink:"https://github.com/clementrozario/Expense-Tracker_NoSql",
-    },
+    // {
+    //     title:"Expense Tracker App 💸",
+    //     description:"Add savings & expenses with s3 storage leader boards payment integration",
+    //     techstack:["React.js","Node.js","Express.js","MongoDB"],
+    //     sourcelink:"https://github.com/clementrozario/Expense-Tracker_NoSql",
+    // },
 
    
 
