@@ -21,7 +21,7 @@ export const projects = [
         description:"Add savings & expenses with visual charts, built using GraphQL for efficient data management.",
         image:"/Notes-app.png",
         techstack:["React.js","mongoDB","tailwindcss","JWT"],
-        livelink:"deploying soon....",
+        livelink:"",
         sourcelink:"https://github.com/clementrozario/ai-notesapp",
     },
 
