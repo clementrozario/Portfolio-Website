@@ -27,7 +27,7 @@ const LeftSection = () => {
         <div className="mt-50">
         <h1 className="text-4xl font-bold">Hello, I'm Clement</h1>
         <p className="text-lg leading-relaxed mt-4">
-          Hello friend, this is Clement. I love beautiful design and I love to code.
+          I love beautiful design and I love to code.
           Generally curious, trying to become a professional software engineer, learning
           and building applications for fun. Find my projects and skills <span className="text-3xl">👉🏻</span>
         </p>
