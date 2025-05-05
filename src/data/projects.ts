@@ -18,7 +18,7 @@ export const projects = [
 
     {
         title:"Note taking app 📝",
-        description:"Add savings & expenses with visual charts, built using GraphQL for efficient data management.",
+        description:"uild a full-stack MERN Notes App with authentication, note management, pinning, and search features, including complete frontend and backend integration.",
         image:"/Notes-app.png",
         techstack:["React.js","mongoDB","tailwindcss","JWT"],
         livelink:"https://notesapp-frontend-swcv.onrender.com",
