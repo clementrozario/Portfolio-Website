@@ -8,7 +8,7 @@ export const projects = [
         sourcelink:"https://github.com/clementrozario/Streamify",
     },
     {
-        title:"Realtime Chat App 💬",
+        title:"QuickTalk 💬",
         description:" Built from scratch with WebSockets for real-time messaging, featuring a simple and clean UI.",
         image:"/Chat-Portfolio.png",
         techstack:["React.js","Node.js","TailwindCSS","DaisyUI","JWT","Zustand"],
@@ -17,8 +17,8 @@ export const projects = [
     },
 
     {
-        title:"Note taking app 📝",
-        description:"uild a full-stack MERN Notes App with authentication, note management, pinning, and search features, including complete frontend and backend integration.",
+        title:"MindPad 📝",
+        description:"Builtuild a full-stack MERN Notes App with authentication, note management, pinning, and search features, including complete frontend and backend integration.",
         image:"/Notes-app.png",
         techstack:["React.js","mongoDB","tailwindcss","JWT"],
         livelink:"https://notesapp-frontend-swcv.onrender.com",
