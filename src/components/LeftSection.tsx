@@ -39,7 +39,7 @@ const LeftSection = () => {
           <a href="https://x.com/Clement35670821" target="_blank" rel="noopener noreferrer">
             <FaTwitter size={24} className="hover:text-blue-500" />
           </a>
-          <a href="mailto:clementcla7@gmail.com?subject=Hello Clement!" target="_blank" rel="noopener noreferrer">
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=clementcla7@gmail.com&su=Hello%20Clement!" target="_blank" rel="noopener noreferrer">
             <FaEnvelope size={24} className="hover:text-blue-500" />
           </a>
           <a href="https://www.linkedin.com/in/clementcla/" target="_blank" rel="noopener noreferrer">
